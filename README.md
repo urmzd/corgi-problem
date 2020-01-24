@@ -8,9 +8,10 @@ Charles and the Corgi Conundrum hackathon problem solution in C.
 3. Follow the input rules beneath.
 
   Input goes as following (all integers):
-  s - Number of ponds
-  a b - Where a represents the number of corgis in the pond and b represents the number of friendship bonds.
-  u v - corgi number u and corgi number v are friends.
+  
+    s - Number of ponds
+    a b - Where a represents the number of corgis in the pond and b represents the number of friendship bonds.
+    u v - corgi number u and corgi number v are friends.
 
   Example input:
 
