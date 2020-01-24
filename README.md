@@ -14,14 +14,14 @@ u v - corgi number u and corgi number v are friends.
 
 Example input:
 
-2 - s
-4 2 - a,b
-1 2
-3 4
-10 6 - a,b
-1 3
-3 2
-7 5
-10 8
-4 3
-9 10
+  2 - s
+  4 2 - a,b
+  1 2
+  3 4
+  10 6 - a,b
+  1 3
+  3 2
+  7 5
+  10 8
+  4 3
+  9 10
